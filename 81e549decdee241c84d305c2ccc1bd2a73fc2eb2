@@ -1,5 +1,23 @@
 {
-  "comments": [],
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fac309a7_b03fdb0f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 3746668
+      },
+      "writtenOn": "2024-12-10T09:56:24Z",
+      "side": 1,
+      "message": "I have over 200 devices listed in the manifest any suggestions on what I need to do to clear them",
+      "revId": "81e549decdee241c84d305c2ccc1bd2a73fc2eb2",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ],
   "submitRequirementResults": [
     {
       "submitRequirement": {
