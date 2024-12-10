@@ -16,6 +16,24 @@
       "message": "I have over 200 devices listed in the manifest any suggestions on what I need to do to clear them",
       "revId": "81e549decdee241c84d305c2ccc1bd2a73fc2eb2",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4b5cee2d_bf1cf2a4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1096713
+      },
+      "writtenOn": "2024-12-10T22:16:58Z",
+      "side": 1,
+      "message": "It you want to continue using this project locally, you can add it to a local manifest in your tree(s).  See https://gerrit.googlesource.com/git-repo/+/master/docs/manifest-format.md#Local-Manifests for details on how to set up a local manifest.",
+      "parentUuid": "fac309a7_b03fdb0f",
+      "revId": "81e549decdee241c84d305c2ccc1bd2a73fc2eb2",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ],
   "submitRequirementResults": [
