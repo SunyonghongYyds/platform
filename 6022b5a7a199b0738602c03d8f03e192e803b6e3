@@ -22,6 +22,30 @@
       },
       "revId": "6022b5a7a199b0738602c03d8f03e192e803b6e3",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9665f42e_d2d8d715",
+        "filename": "default.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 77,
+      "author": {
+        "id": 1125918
+      },
+      "writtenOn": "2024-12-11T20:40:49Z",
+      "side": 1,
+      "message": "We do not have an emu-dev branch, and we can share the code-base with emu-master-dev. We cannot use main due to the fact that they will start removing bazel build files soon.",
+      "parentUuid": "0e624566_2da25c81",
+      "range": {
+        "startLine": 77,
+        "startChar": 110,
+        "endLine": 77,
+        "endChar": 124
+      },
+      "revId": "6022b5a7a199b0738602c03d8f03e192e803b6e3",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
