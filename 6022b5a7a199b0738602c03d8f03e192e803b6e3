@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "0e624566_2da25c81",
+        "filename": "default.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 77,
+      "author": {
+        "id": 1278660
+      },
+      "writtenOn": "2024-12-11T20:38:35Z",
+      "side": 1,
+      "message": "Is this the proper branch?",
+      "range": {
+        "startLine": 77,
+        "startChar": 110,
+        "endLine": 77,
+        "endChar": 124
+      },
+      "revId": "6022b5a7a199b0738602c03d8f03e192e803b6e3",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
