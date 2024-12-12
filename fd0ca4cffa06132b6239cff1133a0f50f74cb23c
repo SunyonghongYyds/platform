@@ -34,6 +34,23 @@
       "parentUuid": "432062e6_d66128a2",
       "revId": "fd0ca4cffa06132b6239cff1133a0f50f74cb23c",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8e662403_41c1697d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1047255
+      },
+      "writtenOn": "2024-12-12T18:21:54Z",
+      "side": 1,
+      "message": "Bypass presubmit reason:  Presubmit currently takes 8 hours due to issue with cross-branch build chaining.  None of the check failures are related to these manifest changes.",
+      "revId": "fd0ca4cffa06132b6239cff1133a0f50f74cb23c",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
