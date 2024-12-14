@@ -22,6 +22,30 @@
       },
       "revId": "89c7eacd1da6ce5f1d66432da9ce6a705f4cc4fb",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "84955ad0_2e64debd",
+        "filename": "default.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 1086523
+      },
+      "writtenOn": "2024-12-14T00:48:09Z",
+      "side": 1,
+      "message": "Yes (referenced by trunk_staging release configuration).",
+      "parentUuid": "f6d6745b_e646a34a",
+      "range": {
+        "startLine": 66,
+        "startChar": 45,
+        "endLine": 66,
+        "endChar": 48
+      },
+      "revId": "89c7eacd1da6ce5f1d66432da9ce6a705f4cc4fb",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
