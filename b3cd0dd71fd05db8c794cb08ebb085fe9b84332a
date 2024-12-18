@@ -16,6 +16,23 @@
       "message": "Judging from b/384878445, this change seems very unlikely to be the culprit.",
       "revId": "b3cd0dd71fd05db8c794cb08ebb085fe9b84332a",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "425daffb_2488ca62",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1010056
+      },
+      "writtenOn": "2024-12-18T16:20:07Z",
+      "side": 1,
+      "message": "https://android-review.git.corp.google.com/c/platform/manifest/+/3414273/6 is the likely culprit for that breakage.",
+      "revId": "b3cd0dd71fd05db8c794cb08ebb085fe9b84332a",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
